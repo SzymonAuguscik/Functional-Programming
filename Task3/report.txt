@@ -1,0 +1,5 @@
+1. student: Akla A. wiek: 21
+2. student: Bodo B. wiek: 20
+3. student: Czyzyk C. wiek: 21
+4. student: Dab D. wiek: 22
+5. student: Elo E. wiek: 20
